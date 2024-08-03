@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+.link {
+  stroke: #555;
+  stroke-width: 2px;
+}
+
+.node circle {
+  stroke: #fff;
+  stroke-width: 2px;
+}
+
+.node text {
+  font: 12px sans-serif;
+}
